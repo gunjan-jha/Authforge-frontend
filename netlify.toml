@@ -1,0 +1,5 @@
+[[
+redirects
+]]
+ from =""/api/*"
+ to ="https://authforge-5wl9.onrender.com/:splat",
